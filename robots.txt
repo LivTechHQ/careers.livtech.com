@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://careers.livtech.com/sitemap-index.xml
